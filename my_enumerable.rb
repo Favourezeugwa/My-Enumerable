@@ -1,4 +1,4 @@
-module myEnumerable
+module MyEnumerable
 include Enumerable
   def all?(&block)
     @list.all?(&block)

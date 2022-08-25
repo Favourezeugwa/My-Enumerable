@@ -1,7 +1,7 @@
 require_relative 'my_enumerable'
 
 class MyList
-  include myEnumerable
+  include MyEnumerable
 
   def initialize( *lists ) 
     @list = lists
