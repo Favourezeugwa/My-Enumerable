@@ -5,7 +5,7 @@ module Enumerable
     each { |item| result = false unless yield item }
 
     result
-  end 
+  end
 
   def any?
     result = false
@@ -18,7 +18,7 @@ module Enumerable
   def filter
     array = []
 
-    each { |item| array.push(item) if yield item}
+    each { |item| array.push(item) if yield item }
 
     array
   end
