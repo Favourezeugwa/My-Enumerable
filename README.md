@@ -30,6 +30,12 @@ $ cd My-Enumerable
 - LinkedIn: [Favour Amarachi Ezeugwa](https://www.linkedin.com/in/favour-amarachi-ezeugwa-a5bb31149/)
 - Twitter:[@Favour_ezeugwa](https://twitter.com/Favour_ezeugwa)
 
+👤 **Husseini Mudi**
+
+- GitHub: [@profsain](https://github.com/Profsain)
+- LinkedIn: [Husseini Mudi](https://www.linkedin.com/in/profsain)
+- Twitter:[@profsain](https://twitter.com/profsain)
+
 
 ## 🤝 Contributing
 
